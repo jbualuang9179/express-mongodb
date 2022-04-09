@@ -15,7 +15,8 @@ const result = myRequest(5, (error, res) => {
 });
 console.log(result)
 
-// 2. Promise 
+// 2. Promise
+
 // 3. async/await
 
 console.log('Hello, Node.js');
